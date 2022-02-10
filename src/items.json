@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Common Item",
+        "price": 45
+    },
+    {
+        "name": "Rare Item",
+        "price": 60
+    },
+    {
+        "name": "Epic Item",
+        "price": 80
+    },
+    {
+        "name": "Legendary Item",
+        "price": 100
+    },
+    {
+        "name": "Mythic Item",
+        "price": 150
+    }
+]

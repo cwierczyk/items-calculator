@@ -1,0 +1,8 @@
+.item .hover-show {
+  transition: .2s ease all;
+  opacity: 0;
+}
+
+.item:hover .hover-show {
+  opacity: 1;
+}
